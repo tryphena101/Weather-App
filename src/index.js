@@ -1,22 +1,22 @@
 // Import weather icons
-import SunnyDay from "./icons/wi-day-sunny.svg";
-import CloudyDayOne from "./icons/wi-cloud.svg";
-import CloudyDayTwo from "./icons/wi-day-cloudy.svg";
-import CloudyDayThree from "./icons/wi-day-cloudy-high.svg";
-import RainyDay from "./icons/wi-day-rain.svg";
-import ShowersDay from "./icons/wi-day-showers.svg";
-import ThunderstormsDay from "./icons/wi-thunderstorm.svg";
-import FogDay from "./icons/wi-fog-day.svg";
-import SnowDay from "./icons/wi-snowflake-cold-day.svg";
-import Night from "./icons/wi-night-clear.svg";
-import CloudyNightOne from "./icons/wi-night-alt-cloudy.svg";
-import CloudyNightTwo from "./icons/wi-night-alt-cloudy-high.svg";
-import CloudyNightThree from "./icons/wi-night-alt-partly-cloudy.svg";
-import RainyNight from "./icons/wi-night-alt-rain.svg";
-import ShowersNight from "./icons/wi-night-alt-showers.svg";
-import ThunderstormsNight from "./icons/wi-night-thunderstorm.svg";
-import FogNight from"./icons/wi-fog-night.svg";
-import SnowNight from "./icons/wi-snowflake-cold-night.svg";
+import SunnyDay from "./dist/icons/wi-day-sunny.svg";
+import CloudyDayOne from "./dist/icons/wi-cloud.svg";
+import CloudyDayTwo from "./dist/icons/wi-day-cloudy.svg";
+import CloudyDayThree from "./dist/icons/wi-day-cloudy-high.svg";
+import RainyDay from "./dist/icons/wi-day-rain.svg";
+import ShowersDay from "./dist/icons/wi-day-showers.svg";
+import ThunderstormsDay from "./dist/icons/wi-thunderstorm.svg";
+import FogDay from "./dist/icons/wi-fog-day.svg";
+import SnowDay from "./dist/icons/wi-snowflake-cold-day.svg";
+import Night from "./dist/icons/wi-night-clear.svg";
+import CloudyNightOne from "./dist/icons/wi-night-alt-cloudy.svg";
+import CloudyNightTwo from "./dist/icons/wi-night-alt-cloudy-high.svg";
+import CloudyNightThree from "./dist/icons/wi-night-alt-partly-cloudy.svg";
+import RainyNight from "./dist/icons/wi-night-alt-rain.svg";
+import ShowersNight from "./dist/icons/wi-night-alt-showers.svg";
+import ThunderstormsNight from "./dist/icons/wi-night-thunderstorm.svg";
+import FogNight from"./dist/icons/wi-fog-night.svg";
+import SnowNight from "./dist/icons/wi-snowflake-cold-night.svg";
 
 const weatherIcon = {
   icons: {
