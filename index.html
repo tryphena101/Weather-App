@@ -1,1 +1,43 @@
-test
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weather App</title>
+  <meta charset="UTF-8"/>
+
+  <link rel="stylesheet" href="weatherstyles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class = "container">
+      <form id = "search_city_form">
+        <img class ="search_icon" src = "./icons/search.png">
+      <input type = "search" placeholder="Enter city name">
+      <br>
+      <span class="error-msg">Location not valid! 😩</span>
+    </form>
+      <div class = "weather">
+      <img class = "icon">
+    <div class = "additional"></div>
+    <div class = "square"></div>
+    <div class = "date"></div>
+    <div class = "temp"></div>
+    <div class = "details"></div>
+    <div class="box_footer"></div>
+<img class ="feels_like" src = "./icons/like_feels.svg">
+<img class ="humidity" src = "./icons/wi-humidity.svg">
+<img class ="sunrise" src = "./icons/wi-sunrise.svg">
+<img class ="sunset" src = "./icons/wi-sunset.svg">
+      <!-- <label class = "switch">
+        <input type = "checkbox">
+        <span class = "slider round"></span>
+        </label> -->
+        <!-- </section> -->
+    </div>
+  </div>
+<script src="/dist/bundle.js"></script>
+  </body>
+  </html>
+
